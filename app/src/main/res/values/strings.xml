@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TestGoogleFit</string>
+    <string name="user_name">User Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="request_blood_glucose_data">Request Blood Glucose Data</string>
+</resources>
